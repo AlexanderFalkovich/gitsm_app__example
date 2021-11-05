@@ -1,0 +1,3 @@
+[submodule "pynqz2cuber"]
+	path = pynqz2cuber
+	url = https://github.com/AlexanderFalkovich/pynqz2cuber
